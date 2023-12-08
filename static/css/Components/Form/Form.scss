@@ -1,0 +1,11 @@
+.Form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+
+  &__checkbox {
+    margin-bottom: 15px;
+    // margin-top: 5px;
+  }
+}
